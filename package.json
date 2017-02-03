@@ -1,0 +1,30 @@
+{
+  "name": "bulma-material-form",
+  "version": "0.1.0",
+  "description": "Material design form elements for Bulma.",
+  "main": "src/main.sass",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1",
+    "build": "sass src/main.sass > bulma-material-form.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbtek/bulma-material-form.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "form",
+    "bulma",
+    "css"
+  ],
+  "author": "İsmail Demirbilek <ce.demirbilek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbtek/bulma-material-form/issues"
+  },
+  "homepage": "https://github.com/dbtek/bulma-material-form#readme",
+  "devDependencies": {
+    "bulma": "^0.3.1"
+  }
+}
